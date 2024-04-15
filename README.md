@@ -1,2 +1,1 @@
-# nextjs_starter
-an testing project for starter command line tools
+# an cli for creating template nextjs project with basic configurations
